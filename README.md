@@ -1,3 +1,1 @@
-# confs-theme
-
-The theme files for the WebConfs blog.
+# Andrew Carson Gay
