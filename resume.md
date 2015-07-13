@@ -1,4 +1,4 @@
 ---
 title: "Résumé"
-permalink: Resume
+permalink: "/Resume/"
 ---
