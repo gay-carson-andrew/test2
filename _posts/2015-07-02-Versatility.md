@@ -1,6 +1,6 @@
 ---
-title: "Versatile"
-permalink: "Versatile"
+title: "Versatility"
+permalink: "Versatility"
 excerpt: "Creative writing"
 ---
 
