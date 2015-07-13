@@ -6,6 +6,6 @@
   @extend %clearfix;
   @include mq(medium)  {
     height: 48px;
-    background: palette(grey, lightest);
+    background: palette(blue, lightest);
   }
 }
