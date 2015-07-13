@@ -9,14 +9,12 @@
 
 body {
 	color: palette(gray);
-  font-size: $base__font-size;
-  font-family: $font-family--primary;
-  line-height: ($base__line/$base__font-size);
-
+	font-size: $base__font-size;
+	font-family: $font-family--primary;
+	line-height: ($base__line/$base__font-size);
 }
 
 // Text
-
 h1 {
 	@extend %hdln-prim;
 }
